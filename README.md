@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Julia
 
-<!--
-**jbiesiadaa/jbiesiadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+am an Applied Mathematics student at IU Indianapolis with a minor in Applied Data Science and a certificate in Artificial Intelligence.
 
-Here are some ideas to get you started:
+My main interests are data science, sports analytics, biomathematical modeling, data visualization, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+You can see my full project list here: tbd
+
+## Skills 
+R | Python | SQL | MATLAB | Excel | Power BI
+
+## Connect 
+[LinkedIn](https://www.linkedin.com/in/juliabiesiada/) 
+[GitHub](https://github.com/jbiesiadaa)
