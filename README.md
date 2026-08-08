@@ -12,7 +12,7 @@ This GitHub account is where I showcase my projects, skills, and ideas. I am alw
 You can see my full project list here:
 
 ### 1) Dodgeball Mathematical Modeling Spring 2026
-A group project completed for MATH-I 426: Introduction to Applied Mathematics and Modeling. Based on the paper D[Dodge and Survive: Modeling the Predatory Nature of Dodgeball](https://arxiv.org/abs/2008.05891), we studied deterministic and stochastic models used to compare different dodgeball strategies. I focused on stochastic modeling, created a Python simulation, and studied the deterministic equations and steady states.
+A group project completed for MATH-I 426: Introduction to Applied Mathematics and Modeling. Based on the paper [Dodge and Survive: Modeling the Predatory Nature of Dodgeball](https://arxiv.org/abs/2008.05891), we studied deterministic and stochastic models used to compare different dodgeball strategies. I focused on stochastic modeling, created a Python simulation, and studied the deterministic equations and steady states.
 
 - [Project Repo](https://github.com/jbiesiadaa/Dodgeball-Mathematical-Modeling.git)
 - [Group Presentation](https://docs.google.com/presentation/d/10tF1YQfKGpRRIsTgrV1e6l0aBcsfBnvpG95GRpT7kKk/edit?usp=sharing)
