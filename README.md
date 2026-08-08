@@ -14,17 +14,17 @@ You can see my full project list here:
 ### 1) UFA Throwing EDA CMSACamp 2026  
 A sports analytics project created during Carnegie Mellon Sports Analytics Camp 2026. I used R, Quarto, and data visualization to analyze team performance in the Ultimate Frisbee Association, focusing on scoring efficiency, turnovers, and playing style.
 
-[Project Repo](https://github.com/jbiesiadaa/ufa-throwing-cmsacamp-2026)  
-[Team Performance Visualizations & Analysis](https://jbiesiadaa.github.io/ufa-throwing-cmsacamp-2026/Biesiada/03_Team_Performance_Visualizations.html)  
-[Group Presentation](https://docs.google.com/presentation/d/1veFJ8hsu_2UlV3LRz6G_HatQsrVH5wUvZeeoUHaE7BY/edit?usp=sharing)
+- [Project Repo](https://github.com/jbiesiadaa/ufa-throwing-cmsacamp-2026)  
+- [Team Performance Visualizations & Analysis](https://jbiesiadaa.github.io/ufa-throwing-cmsacamp-2026/Biesiada/03_Team_Performance_Visualizations.html)  
+- [Group Presentation](https://docs.google.com/presentation/d/1veFJ8hsu_2UlV3LRz6G_HatQsrVH5wUvZeeoUHaE7BY/edit?usp=sharing)
 
 ### 2) Quantifying Passing Decision Quality Under Pressure
 A capstone sports analytics project completed during Carnegie Mellon Sports Analytics Camp 2026. We used R, Quarto, tracking and event data, and statistical and machine learning models to compare a player’s chosen pass with the highest threat realistic option and identify which spatial and defensive factors predict whether an attacker selects it.
 
-[Project Repo](https://github.com/jbiesiadaa/Defensive-Threat-Reduction---CMSACamp-2026.git)  
-[Group Presentation](https://docs.google.com/presentation/d/1-LlrpeMXcfCt_RJlcTGnq9Zt7fdPnuHtAA3ubasTqJY/edit?usp=sharing)
-[Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/report.html)
-[Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/poster.pdf)
+- [Project Repo](https://github.com/jbiesiadaa/Defensive-Threat-Reduction---CMSACamp-2026.git)  
+- [Group Presentation](https://docs.google.com/presentation/d/1-LlrpeMXcfCt_RJlcTGnq9Zt7fdPnuHtAA3ubasTqJY/edit?usp=sharing)
+- [Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/report.html)
+- [Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/poster.pdf)
 
 ## Skills 
 R | Python | SQL | MATLAB | Excel | Power BI
