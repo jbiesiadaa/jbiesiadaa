@@ -7,7 +7,7 @@ My main interests are data science, sports analytics, biomathematical modeling, 
 This GitHub account is where I showcase my projects, skills, and ideas. I am always happy to connect, share ideas, and collaborate.
 
 ## Projects 
-**(Updated June 20, 2026)**
+**(Updated August 8, 2026)**
 
 You can see my full project list here:
 
@@ -17,6 +17,14 @@ A sports analytics project created during Carnegie Mellon Sports Analytics Camp 
 [Project Repo](https://github.com/jbiesiadaa/ufa-throwing-cmsacamp-2026)  
 [Team Performance Visualizations & Analysis](https://jbiesiadaa.github.io/ufa-throwing-cmsacamp-2026/Biesiada/03_Team_Performance_Visualizations.html)  
 [Group Presentation](https://docs.google.com/presentation/d/1veFJ8hsu_2UlV3LRz6G_HatQsrVH5wUvZeeoUHaE7BY/edit?usp=sharing)
+
+### 2) Quantifying Passing Decision Quality Under Pressure
+A capstone sports analytics project completed during Carnegie Mellon Sports Analytics Camp 2026. We used R, Quarto, tracking and event data, and statistical and machine learning models to compare a player’s chosen pass with the highest threat realistic option and identify which spatial and defensive factors predict whether an attacker selects it.
+
+[Project Repo](https://github.com/jbiesiadaa/Defensive-Threat-Reduction---CMSACamp-2026.git)  
+[Group Presentation](https://docs.google.com/presentation/d/1-LlrpeMXcfCt_RJlcTGnq9Zt7fdPnuHtAA3ubasTqJY/edit?usp=sharing)
+[Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/report.html)
+[Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/poster.pdf)
 
 ## Skills 
 R | Python | SQL | MATLAB | Excel | Power BI
