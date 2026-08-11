@@ -32,8 +32,12 @@ A group project completed for MATH-I 426: Introduction to Applied Mathematics an
 - [Project Repo](https://github.com/jbiesiadaa/Dodgeball-Mathematical-Modeling.git)
 - [Group Presentation](https://docs.google.com/presentation/d/10tF1YQfKGpRRIsTgrV1e6l0aBcsfBnvpG95GRpT7kKk/edit?usp=sharing)
 
-## Skills 
-R | Python | SQL | MATLAB | Excel | Power BI
+## Skills
+
+**Programming & Data Analysis:** R | Python | SQL | MATLAB | Excel  
+**Data Visualization:** Power BI | Tableau | Quarto  
+**Data Science & Modeling:** Statistical Modeling | Machine Learning | Deep Learning | Mathematical Modeling | Numerical Methods  
+**Tools:** Microsoft Office | Git | GitHub
 
 ## Connect 
 <p align="center"> <a href="https://www.linkedin.com/in/juliabiesiada/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/jbiesiadaa"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:julia.biesiada.analytics@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
