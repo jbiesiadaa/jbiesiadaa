@@ -60,15 +60,19 @@ Shafique, H., Demers, J. C., **Biesiada, J.**, Golani, L. K., Cerne, R., Smith, 
 ### Presented
 
 **CMSACamp 2026 Research Showcase | Carnegie Mellon University | July 2026**  
+
 Presented *Quantifying Passing Decision Quality Under Pressure*, a sports analytics research project using soccer tracking and event data.
 
 **[IU INSPIRE Undergraduate Research & Engagement Showcase](https://indianapolis.iu.edu/campus-life/events/inspire-showcase.html) | IU Indianapolis | April 2026** 
+
 Presented a research poster on biomathematical modeling of retinal blood flow and capillary regulation in glaucoma.
 
 **[Rose-Hulman Undergraduate Mathematics Conference](https://www.rose-hulman.edu/class/ma/web/mathconf/2026/index.html) | March 2026**  
+
 Gave a solo oral presentation on biomathematical modeling of retinal capillary regulation in glaucoma.
 
 **Indiana Undergraduate Mathematics Research Conference | July 2025**  
+
 Co-presented undergraduate research on mathematical modeling of retinal blood flow and glaucoma.
 
 
