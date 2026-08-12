@@ -11,7 +11,7 @@ This GitHub account is where I showcase my projects, skills, and ideas. I am alw
 
 You can see my full project list here:
 
-### 1) Quantifying Passing Decision Quality Under Pressure | R 
+### 1) Quantifying Passing Decision Quality Under Pressure Summer 2026| R 
 A capstone sports analytics project completed during Carnegie Mellon Sports Analytics Camp 2026. We used R, Quarto, tracking and event data, and statistical and machine learning models to compare a player’s chosen pass with the highest threat realistic option and identify which spatial and defensive factors predict whether an attacker selects it.
 
 - [Project Repo](https://github.com/jbiesiadaa/Defensive-Threat-Reduction---CMSACamp-2026.git)  
@@ -19,7 +19,7 @@ A capstone sports analytics project completed during Carnegie Mellon Sports Anal
 - [Report](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/report.html)
 - [Poster](https://www.stat.cmu.edu/cmsac/sure/2026/showcase/soccer_passing/poster.pdf)
 
-### 2) UFA Throwing EDA CMSACamp 2026 | R
+### 2) UFA Throwing EDA CMSACamp Summer 2026 | R
 A sports analytics project created during Carnegie Mellon Sports Analytics Camp 2026. I used R, Quarto, and data visualization to analyze team performance in the Ultimate Frisbee Association, focusing on scoring efficiency, turnovers, and playing style.
 
 - [Project Repo](https://github.com/jbiesiadaa/ufa-throwing-cmsacamp-2026)  
