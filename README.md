@@ -44,5 +44,39 @@ A final project for INFO-I 308, taught by Dr. Catherine Walsh. I built a normali
 **Data Science & Modeling:** Statistical Modeling | Machine Learning | Deep Learning | Mathematical Modeling | Numerical Methods  
 **Tools:** Microsoft Office | Git | GitHub
 
+## Publications
+
+### (R)-(-)-Ketamine: The Promise of a Novel Treatment for Psychiatric and Neurological Disorders | 2024
+
+Shafique, H., Demers, J. C., **Biesiada, J.**, Golani, L. K., Cerne, R., Smith, J. L., Szostak, M., & Witkin, J. M.  
+*International Journal of Molecular Sciences, 25*(12), 6804.
+
+- [Full Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11203826/)
+- [DOI](https://doi.org/10.3390/ijms25126804)
+
+
+## Conferences & Presentations
+
+### Presented
+
+**CMSACamp 2026 Research Showcase | Carnegie Mellon University | July 2026**  
+Presented *Quantifying Passing Decision Quality Under Pressure*, a sports analytics research project using soccer tracking and event data.
+
+**[IU INSPIRE Undergraduate Research & Engagement Showcase](https://indianapolis.iu.edu/campus-life/events/inspire-showcase.html) | IU Indianapolis | April 2026** 
+Presented a research poster on biomathematical modeling of retinal blood flow and capillary regulation in glaucoma.
+
+**[Rose-Hulman Undergraduate Mathematics Conference](https://www.rose-hulman.edu/class/ma/web/mathconf/2026/index.html) | March 2026**  
+Gave a solo oral presentation on biomathematical modeling of retinal capillary regulation in glaucoma.
+
+**Indiana Undergraduate Mathematics Research Conference | July 2025**  
+Co-presented undergraduate research on mathematical modeling of retinal blood flow and glaucoma.
+
+
+### Attended
+
+**[MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/conference/2026-conference) | Boston, MA | March 2026**  
+
+**[American Soccer Insights Summit](https://americansoccerinsights.com/) | Rice University, Houston, TX | January 2026**  
+
 ## Connect 
 <p align="center"> <a href="https://www.linkedin.com/in/juliabiesiada/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/jbiesiadaa"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:julia.biesiada.analytics@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
